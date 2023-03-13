@@ -1,0 +1,49 @@
+body {
+    background-image: url(../odin-recipes/passion.png);
+}
+
+h1 {
+    font-size: 40px;
+    font-weight:900;
+    font-family: 'Comic Sans','Arial',sans-serif;
+    color:white;
+    margin-left: 10px;
+    left:-42px;
+    background-color: blueviolet;
+    position:relative;
+
+}
+
+li {
+    font-size: 32px;
+    font-weight: 700;
+    position:relative;
+    left:420px;
+    color:chartreuse;
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(255,255,255,1));
+}
+a:active{
+    color:blue;
+}
+a:visited {
+    color:cyan;
+}
+a:hover{
+    color:goldenrod;
+}
+h3 {
+    color:whitesmoke;
+    background-color: aquamarine;
+    font-size: 32px;
+}
+img {
+    width:500px;
+    height:auto;
+}
+p {
+    background-image:linear-gradient(cyan,purple);
+    font-weight:100px;
+    font-size: 20px;
+    left:700px;
+    color:red;
+}
